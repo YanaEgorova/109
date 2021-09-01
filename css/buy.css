@@ -246,7 +246,7 @@ sup {
     font-family: inherit;
 }
 option {
-    background-color: var(--third-brand-color);
+    background-color: var(--second-brand-color);
 }
 .rules {
     font-size: 1.6rem;
